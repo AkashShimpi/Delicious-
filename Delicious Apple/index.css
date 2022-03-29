@@ -1,0 +1,57 @@
+.square1{
+    display: flex;
+    position: absolute;
+    height: 450px;
+    width: 450px;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.square2{
+    position: relative;
+    height: 350px;
+    width: 220px;
+    background-color: rgb(132, 216, 99);
+    margin-top: 5%;
+    margin-left: -5%;
+}
+.position{
+    margin-left: -20%;
+    height: 75%;
+     margin-top: 5%;
+}
+.views-of-Apples{
+   position:relative;
+   height: 25%;
+   background-color: rgb(221, 213, 213);
+   justify-content: space-evenly;
+}
+.demo-pics *{
+    
+    height: 50%;
+    display: inline;
+    position: relative;
+    margin-top: 9%;
+}
+.types-apples *{
+    display: inline;
+    position: relative;
+    margin-top: 9%;
+    
+}
+.discription{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.Buy-button{
+    color: white;
+    background-color: rgb(238, 20, 20);
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    margin-left: 55px;
+}
+.Buy-button:hover{
+   background-color: blueviolet;
+}
+
